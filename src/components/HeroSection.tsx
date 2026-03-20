@@ -39,7 +39,7 @@ const HeroSection = () => {
           className="text-muted-foreground text-lg md:text-xl max-w-md mb-10 animate-fade-up"
           style={{ animationDelay: "0.6s", opacity: 0 }}
         >
-          Fast, technical, goal-driven player ready to compete at the highest level.
+          Dynamic left-back with pace, defensive strength, and quality crossing ability.
         </p>
         <div
           className="flex flex-wrap gap-4 animate-fade-up"
