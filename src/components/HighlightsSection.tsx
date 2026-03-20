@@ -18,7 +18,7 @@ const HighlightsSection = () => {
         >
           <iframe
             className="absolute inset-0 w-full h-full"
-            src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+            src="https://youtube.com/shorts/FGUbaSQ50CI?si=GgtizQfJ3JpyxM67"
             title="Player Highlights"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen

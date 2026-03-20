@@ -3,11 +3,11 @@ import { User, Ruler, MapPin, Flag, Footprints, Building2 } from "lucide-react";
 
 const profileData = [
   { icon: User, label: "Age", value: "23" },
-  { icon: Ruler, label: "Height", value: "1.82m" },
-  { icon: MapPin, label: "Position", value: "Winger / Forward" },
+  { icon: Ruler, label: "Height", value: "1.76m" },
+  { icon: MapPin, label: "Position", value: "Left-Back / Wing-Back" },
   { icon: Footprints, label: "Preferred Foot", value: "Left" },
-  { icon: Flag, label: "Nationality", value: "Brazilian" },
-  { icon: Building2, label: "Current Club", value: "FC Estrela" },
+  { icon: Flag, label: "Nationality", value: "Nigerian" },
+  { icon: Building2, label: "Current Club", value: "None" },
 ];
 
 const ProfileSection = () => {

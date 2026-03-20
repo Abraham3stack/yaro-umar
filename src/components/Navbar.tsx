@@ -28,7 +28,7 @@ const Navbar = () => {
     >
       <div className="max-w-7xl mx-auto flex items-center justify-between section-padding py-4">
         <a href="#home" className="font-display text-2xl tracking-wider text-foreground">
-          PLAYER<span className="text-primary">FC</span>
+          ABRAHAM|<span className="text-primary">LB</span>
         </a>
 
         {/* Desktop */}

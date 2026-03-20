@@ -19,7 +19,7 @@ const ContactSection = () => {
 
         <div className={`flex flex-col sm:flex-row items-center justify-center gap-4 mb-12 transition-all duration-700 delay-200 ${visible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-5"}`}>
           <a
-            href="https://wa.me/5511999999999"
+            href="https://wa.me/+2348104320170?text=Hello%20I%20saw%20your%20website"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-7 py-3 bg-primary text-primary-foreground font-semibold text-sm rounded-md hover:brightness-110 active:scale-[0.97] transition-all duration-200 w-full sm:w-auto justify-center"
@@ -28,18 +28,18 @@ const ContactSection = () => {
             WhatsApp
           </a>
           <a
-            href="mailto:marcus.rivera@email.com"
+            href="mailto:ogbuabraham39@gmail.com"
             className="inline-flex items-center gap-2 px-7 py-3 border border-foreground/20 text-foreground font-semibold text-sm rounded-md hover:bg-foreground/5 active:scale-[0.97] transition-all duration-200 w-full sm:w-auto justify-center"
           >
             <Mail size={18} />
-            marcus.rivera@email.com
+            abraham@email.com
           </a>
         </div>
 
         {/* Social links */}
         <div className={`flex items-center justify-center gap-6 transition-all duration-700 delay-300 ${visible ? "opacity-100" : "opacity-0"}`}>
           <a
-            href="https://instagram.com"
+            href="https://www.instagram.com/ogbuabraham3"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-foreground transition-colors text-sm font-medium"
@@ -48,7 +48,7 @@ const ContactSection = () => {
           </a>
           <span className="text-border">|</span>
           <a
-            href="https://twitter.com"
+            href="https://twitter.com/ogbuabraham3"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-foreground transition-colors text-sm font-medium"

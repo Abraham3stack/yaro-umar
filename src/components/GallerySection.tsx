@@ -5,14 +5,26 @@ import gallery3 from "@/assets/gallery-3.jpg";
 import gallery4 from "@/assets/gallery-4.jpg";
 import gallery5 from "@/assets/gallery-5.jpg";
 import gallery6 from "@/assets/gallery-6.jpg";
+import gallery7 from "@/assets/gallery-7.jpg";
+import gallery8 from "@/assets/gallery-8.jpg";
+import gallery9 from "@/assets/gallery-9.jpg";
+import gallery10 from "@/assets/gallery-10.jpg";
+import gallery11 from "@/assets/hero-bg.jpg";
+import gallery12 from "@/assets/gallery-12.jpg";
 
 const images = [
+  { src: gallery11, alt: "Aerial match view" },
   { src: gallery1, alt: "Dribbling past defenders" },
-  { src: gallery2, alt: "Celebrating a goal" },
   { src: gallery3, alt: "Close-up on the ball" },
+  { src: gallery7, alt: "Aerial match view" },
+  { src: gallery2, alt: "Celebrating a goal" },
   { src: gallery4, alt: "Training session" },
   { src: gallery5, alt: "Player portrait" },
   { src: gallery6, alt: "Aerial match view" },
+  { src: gallery8, alt: "Aerial match view" },
+  { src: gallery9, alt: "Aerial match view" },
+  { src: gallery12, alt: "Aerial match view" },
+  { src: gallery10, alt: "Aerial match view" },
 ];
 
 const GallerySection = () => {
