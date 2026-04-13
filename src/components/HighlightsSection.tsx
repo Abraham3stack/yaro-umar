@@ -14,11 +14,23 @@ const HighlightsSection = () => {
         </h2>
 
         <div
+          className={`relative mb-8 aspect-video rounded-lg overflow-hidden glass-card transition-all duration-700 delay-200 ${visible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-5"}`}
+        >
+          <iframe
+            className="absolute inset-0 w-full h-full"
+            src="https://www.youtube.com/embed/vIPsnVUJEEo"
+            title="Player Highlights"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen
+          />
+        </div>
+
+        <div
           className={`relative aspect-video rounded-lg overflow-hidden glass-card transition-all duration-700 delay-200 ${visible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-5"}`}
         >
           <iframe
             className="absolute inset-0 w-full h-full"
-            src="https://youtube.com/shorts/FGUbaSQ50CI?si=GgtizQfJ3JpyxM67"
+            src="https://www.youtube.com/embed/R1ndze7VWJs"
             title="Player Highlights"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen

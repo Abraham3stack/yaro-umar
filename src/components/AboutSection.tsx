@@ -15,12 +15,10 @@ const AboutSection = () => {
 
         <div className={`space-y-5 transition-all duration-700 delay-200 ${visible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-5"}`}>
           <p className="text-muted-foreground text-base md:text-lg leading-relaxed" style={{ textWrap: "pretty" }}>
-            I am a dynamic left-back and wing-back known for my defensive discipline, pace, and intelligence on the field.
-            Strong in 1v1 situations, I take pride in my defensive solidity while also contributing offensively through overlapping runs, quality crosses, and accurate passing.
-            My speed on and off the ball allows me to support both defense and attack effectively, making me a reliable and versatile presence on the flank.
+            I am a powerful right-back known for my strength, aggression, and defensive dominance on the field. I thrive in one-on-one situations, using my physicality, speed, and timing to shut down attackers and win duels consistently. Fearless in challenges and disciplined in positioning, I bring intensity and authority to the defensive line while maintaining composure under pressure.
           </p>
           <p className="text-muted-foreground text-base md:text-lg leading-relaxed" style={{ textWrap: "pretty" }}>
-            My game is built on consistency, awareness, and composure under pressure. I read the game well, anticipate plays, and make smart decisions both defensively and in transition. Whether supporting the attack with precise deliveries or maintaining defensive shape, I stay disciplined and focused. I bring intensity, work rate, and a team-first mentality every time I step onto the pitch.
+            My approach to the game is direct, focused, and business-minded. I stay locked in on my role, make smart defensive decisions, and execute my responsibilities with precision. Whether tracking runs, breaking up attacks, or maintaining defensive structure, I remain composed and effective. I bring relentless work rate, strong mentality, and a winning mindset every time I step onto the pitch.
           </p>
           <p className="text-foreground font-semibold text-lg mt-8 border-l-2 border-primary pl-4">
             Available for trials and club opportunities.

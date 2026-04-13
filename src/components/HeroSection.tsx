@@ -25,21 +25,21 @@ const HeroSection = () => {
           className="text-primary font-medium text-sm tracking-[0.3em] uppercase mb-4 animate-fade-up"
           style={{ animationDelay: "0.2s", opacity: 0 }}
         >
-          Left Full-Back / Wing-Back
+          Right Full-Back / Wing-Back
         </p>
         <h1
           className="font-display text-6xl sm:text-7xl md:text-8xl lg:text-9xl leading-[0.9] tracking-wide text-foreground mb-6 animate-fade-up"
           style={{ animationDelay: "0.4s", opacity: 0 }}
         >
-          ABRAHAM
+          YARO
           <br />
-          OGBU
+          UMAR
         </h1>
         <p
           className="text-muted-foreground text-lg md:text-xl max-w-md mb-10 animate-fade-up"
           style={{ animationDelay: "0.6s", opacity: 0 }}
         >
-          Dynamic left-back with pace, defensive strength, and quality crossing ability.
+          Powerful and aggressive right-back with a fearless approach to defending. Excels in one-on-one situations, wins physical battles, and brings intensity and reliability to the backline.
         </p>
         <div
           className="flex flex-wrap gap-4 animate-fade-up"
