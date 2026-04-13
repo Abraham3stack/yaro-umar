@@ -47,14 +47,14 @@ const ContactSection = () => {
             Instagram
           </a>
           <span className="text-border">|</span>
-          <a
+          {/* <a
             href="https://twitter.com/ogbuabraham3"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-foreground transition-colors text-sm font-medium"
           >
             Twitter / X
-          </a>
+          </a> */}
         </div>
       </div>
     </section>
