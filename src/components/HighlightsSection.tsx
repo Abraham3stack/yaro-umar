@@ -18,7 +18,8 @@ const HighlightsSection = () => {
         >
           <iframe
             className="absolute inset-0 w-full h-full"
-            src="https://www.youtube.com/embed/vIPsnVUJEEo"
+            // src="https://www.youtube.com/embed/vIPsnVUJEEo"
+            src="https://youtube.com/embed/9Gc6OCiMxGw"
             title="Player Highlights"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
@@ -30,7 +31,7 @@ const HighlightsSection = () => {
         >
           <iframe
             className="absolute inset-0 w-full h-full"
-            src="https://www.youtube.com/embed/R1ndze7VWJs"
+            src="https://youtube.com/embed/SrYnVGa7P4s"
             title="Player Highlights"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
